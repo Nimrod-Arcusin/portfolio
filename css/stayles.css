@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+}
+
+
+.bg-purple {
+    background-color: #7510F7;
+}
+
+.navbar-brand{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.nav-link {
+    font-weight: 600;
+}
+
+.page {
+
+    padding: 6rem 2rem 0;
+
+}
+
+.light {
+    background-color: #FFFFFF;
+    color: #5500D7;
+}
+
+.dark {
+    background-color: #7510F7;
+    color: #FFFFFF;
+}
+
+
+#home h1 {
+    margin-bottom: 2.5rem;
+}
+
+#home h2 {
+    margin-bottom: 2.5rem;
+}
+
+#home .avatar {
+    margin-bottom: 2.5rem;
+    width: 14rem;
+    border-radius: 100%;
+    clear: both;
+}
+
+#home .hero-fotrer {
+    clear: both;
+}
+
+#page2 h1 {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+#page2 h2 {
+    font-size: 1.2rem;
+    padding-bottom: 5rem;
+    font-weight: 350;
+}
